@@ -123,6 +123,8 @@ CS18L-Device-Management-Algorithm/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Things to improve
 
-Developed as part of **CS18L: Operating Systems (Device Management Algorithms Lab Exercise)**.
+=> To run with more device management algorithm (LOOK, C-LOOK, SCAN, C-SCAN, etc)
+=> To improve in a more interactive way where users can input without using CLI
+=> Visualization of data by utilizing MatPlotLib, etc
